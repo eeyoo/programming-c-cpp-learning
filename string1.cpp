@@ -29,9 +29,9 @@
  	cout << "strcat( str1, str2 ) : " << str1 << endl;
 
  	// get length of str1
- 	len = strlen(str1);
+ 	len = strlen(str1); 
  	cout << "strlen( str1 )       : " << strlen(str1) << endl;
- 	//cout << "strlen( str1 )       : " << len << endl;
+ 	cout << "strlen( str1 )       : " << len << endl;
 
  	return 0;
  }
