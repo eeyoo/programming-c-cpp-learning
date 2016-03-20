@@ -9,6 +9,10 @@ using namespace std;
 
 int main()
 {
+    bool res = false;
+    cout << res << endl;
+    res = ~res;
+    cout << res << endl;
     cout << "Hello World!" << endl;
     return 0;
 }

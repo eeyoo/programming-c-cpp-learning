@@ -1,3 +1,7 @@
+# for test
+test.cpp
+temp/
+
 # Compiled Object files
 *.slo
 *.lo
